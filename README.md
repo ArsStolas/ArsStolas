@@ -36,117 +36,35 @@
 
 <br>
 
-<a href="./assets/games-dark.svg#gh-dark-mode-only">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/games-mobile-dark.svg">
-    <img src="./assets/games-dark.svg" alt="01 · Des mondes à jouer. IA, physique, multijoueur… et quelques gobelins." width="100%">
-  </picture>
-</a>
-<a href="./assets/games-light.svg#gh-light-mode-only">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/games-mobile-light.svg">
-    <img src="./assets/games-light.svg" alt="01 · Des mondes à jouer. IA, physique, multijoueur… et quelques gobelins." width="100%">
-  </picture>
-</a>
+<h2>Quelques projets à découvrir</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ArsStolas/Etheria-UE5.6.1"><img src="./assets/cards/etheria.svg" alt="Etheria’s End · une aventure entre les îles flottantes" width="100%"></a>
-      <h3>Etheria’s End</h3>
-      <p>Une aventure au grappin. Co-lead, j’ai développé les IA et les systèmes C++.</p>
-      <p><code>Unreal Engine</code> <code>C++</code> <code>Blueprints</code></p>
-      <p><a href="https://github.com/ArsStolas/Etheria-UE5.6.1">Voir le code ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/cards/orbit-jumper.svg" alt="Orbit Jumper · un personnage ragdoll dans un champ de planètes" width="100%">
-      <h3>Orbit Jumper</h3>
-      <p>Un ragdoll entre des planètes. J’ai développé la physique et la génération procédurale.</p>
-      <p><code>Unreal Engine</code> <code>C++</code> <code>Firebase</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/cards/gobelins.svg" alt="Gobelins, Grimoires et gros Bobos · une arène multijoueur de gobelins mages" width="100%">
-      <h3>Gobelins, Grimoires<br>et gros Bobos</h3>
-      <p>Des gobelins et des sorts. J’ai développé le combat, le multijoueur et les interfaces.</p>
-      <p><code>Unreal Engine</code> <code>C++</code> <code>Réplication</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/cards/chivalry-is-dead.svg" alt="Chivalry Is Dead · un village médiéval et des chevaliers maladroits" width="100%">
-      <h3>Chivalry Is Dead</h3>
-      <p>Des chevaliers en coop. Je me suis occupé du réseau, des IA et du chat vocal.</p>
-      <p><code>Unreal Engine</code> <code>Blueprints</code> <code>IA</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ArsStolas/HD2D_AttractionPark"><img src="./assets/cards/attraction-park.svg" alt="Attraction Park · un personnage en pixel art dans un parc 3D rose" width="100%"></a>
-      <h3>Attraction Park</h3>
-      <p>Un parc à explorer, réalisé seul en trois jours. J’ai développé tout le prototype.</p>
-      <p><code>Unreal Engine</code> <code>Blueprints</code> <code>Materials</code></p>
-      <p><a href="https://github.com/ArsStolas/HD2D_AttractionPark">Voir le code ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/cards/frogs.svg" alt="Frog’s · affiche du jeu de gestion d’un village de grenouilles" width="100%">
-      <h3>Frog’s</h3>
-      <p>Un village de grenouilles. J’ai développé les ressources et le métier de mineur.</p>
-      <p><code>Unity</code> <code>C#</code> <code>Mobile</code></p>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>En préparation : Drop That Sh!t</strong> · préproduction</summary>
-  <br>
-  <img src="./assets/cards/drop-that-shit.svg" alt="Drop That Sh!t · couverture du document de game design, projet en préproduction" width="640">
-  <p>C’est notre prochain projet en équipe, une comédie d’action à la première personne. On en est encore à la conception. Je participe au game design et je travaillerai aussi sur le level design, le développement et une partie de la direction artistique.</p>
-  <p><code>Game design</code> <code>Préproduction</code> <code>Unreal Engine 5.8 prévu</code></p>
-  <p><sub>Le visuel vient du GDD. Le prototype reste à construire.</sub></p>
-</details>
-
+<h3>Etheria’s End</h3>
+<p><a href="https://github.com/ArsStolas/Etheria-UE5.6.1"><img src="./assets/cards/etheria.svg" alt="Etheria’s End" width="100%"></a></p>
+<p>Une aventure au grappin entre des îles flottantes. Co-lead du projet, j’ai développé les IA et les systèmes C++.</p>
+<p><a href="https://github.com/ArsStolas/Etheria-UE5.6.1">Voir le code ↗</a></p>
 <br>
 
-<a href="./assets/apps-dark.svg#gh-dark-mode-only">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/apps-mobile-dark.svg">
-    <img src="./assets/apps-dark.svg" alt="02 · Et de l’autre côté de l’écran. Des applications que l’on peut utiliser au quotidien." width="100%">
-  </picture>
-</a>
-<a href="./assets/apps-light.svg#gh-light-mode-only">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/apps-mobile-light.svg">
-    <img src="./assets/apps-light.svg" alt="02 · Et de l’autre côté de l’écran. Des applications que l’on peut utiliser au quotidien." width="100%">
-  </picture>
-</a>
+<h3>Orbit Jumper</h3>
+<p><img src="./assets/cards/orbit-jumper.svg" alt="Orbit Jumper" width="100%"></p>
+<p>Un ragdoll à catapulter entre des planètes. J’ai développé la physique, la génération procédurale et les fonctionnalités en ligne.</p>
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://eukleo.com/"><img src="./assets/cards/eukleo.svg" alt="Eukleo · agenda multi-collaborateurs pour les professionnels de la beauté" width="100%"></a>
-      <h3>Eukleo</h3>
-      <p>Un outil pour les pros de la beauté, co-développé chez Born To Web en full stack.</p>
-      <p><code>Next.js</code> <code>Django</code> <code>Python</code> <code>API REST</code></p>
-      <p><a href="https://eukleo.com/">Découvrir Eukleo ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/cards/draw-of-the-day.svg" alt="Draw Of The Day · modes de dessin DRAW, BLITZ et DUO" width="100%">
-      <h3>Draw Of The Day</h3>
-      <p>Du dessin solo ou en duo. J’ai porté le projet et développé toute l’application.</p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>Firebase</code></p>
-    </td>
-  </tr>
-</table>
+<h3>Eukleo</h3>
+<p><a href="https://eukleo.com/"><img src="./assets/cards/eukleo.svg" alt="Eukleo" width="100%"></a></p>
+<p>Un outil pour les professionnels de la beauté, co-développé chez Born To Web. J’ai travaillé sur le front Next.js et le back Django.</p>
+<p><a href="https://eukleo.com/">Découvrir Eukleo ↗</a></p>
+<br>
 
-<details>
-  <summary><strong>Dans les archives : Sapify</strong> · mobile, 2022–2023</summary>
-  <br>
-  <img src="./assets/cards/sapify.svg" alt="Sapify · maquette d’une application mobile autour des plantes" width="640">
-  <p>Avec Alexandre Quintela, on a travaillé sur une application mobile pour découvrir les plantes. J’ai participé au développement full stack et à l’organisation du projet. On l’a arrêté en 2023 ; les visuels présentés sont les maquettes que j’en ai gardées.</p>
-  <p><code>React Native</code> <code>Firebase</code></p>
-  <p><sub>Projet arrêté en 2023. Le visuel présenté est une maquette.</sub></p>
-</details>
-
+<h2>Et quelques autres</h2>
+<ul>
+<li><strong>Gobelins, Grimoires et gros Bobos</strong> : combat magique, multijoueur et interfaces.</li>
+<li><strong>Chivalry Is Dead</strong> : réseau, IA et chat vocal pour des chevaliers en coop.</li>
+<li><a href="https://github.com/ArsStolas/HD2D_AttractionPark"><strong>Attraction Park</strong></a> : un prototype de parc réalisé seul en trois jours.</li>
+<li><strong>Frog’s</strong> : ressources et métier de mineur dans un village de grenouilles.</li>
+<li><strong>Draw Of The Day</strong> : une application de dessin solo et duo que j’ai développée en full stack.</li>
+<li><strong>Drop That Sh!t</strong> : notre prochain jeu en équipe, encore en préproduction.</li>
+<li><strong>Sapify</strong> : une application autour des plantes, co-développée avec Alexandre Quintela et arrêtée en 2023.</li>
+</ul>
 <br>
 
 <h2>Ce que j’utilise</h2>
