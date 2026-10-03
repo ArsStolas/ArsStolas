@@ -44,9 +44,9 @@
 <p><a href="https://github.com/ArsStolas/Etheria-UE5.6.1">Voir le code ↗</a></p>
 <br>
 
-<h3>Orbit Jumper</h3>
-<p><img src="./assets/cards/orbit-jumper.svg" alt="Orbit Jumper" width="100%"></p>
-<p>Un ragdoll à catapulter entre des planètes. J’ai développé la physique, la génération procédurale et les fonctionnalités en ligne.</p>
+<h3>Gobelins, Grimoires et gros Bobos</h3>
+<p><img src="./assets/cards/gobelins.svg" alt="Gobelins, Grimoires et gros Bobos" width="100%"></p>
+<p>Un jeu de combat entre gobelins, développé à trois en dix jours. Je me suis occupé du combat magique, des sessions multijoueurs et des interfaces.</p>
 <br>
 
 <h3>Eukleo</h3>
@@ -57,7 +57,7 @@
 
 <h2>Et quelques autres</h2>
 <ul>
-<li><strong>Gobelins, Grimoires et gros Bobos</strong> : combat magique, multijoueur et interfaces.</li>
+<li><strong>Orbit Jumper</strong> : physique ragdoll, planètes procédurales et fonctionnalités en ligne.</li>
 <li><strong>Chivalry Is Dead</strong> : réseau, IA et chat vocal pour des chevaliers en coop.</li>
 <li><a href="https://github.com/ArsStolas/HD2D_AttractionPark"><strong>Attraction Park</strong></a> : un prototype de parc réalisé seul en trois jours.</li>
 <li><strong>Frog’s</strong> : ressources et métier de mineur dans un village de grenouilles.</li>
