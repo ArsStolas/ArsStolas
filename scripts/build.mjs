@@ -134,7 +134,7 @@ function footer(t,mobile=false) {
 }
 
 function button(label,width,color) {
-  return svg(width,42,label,`<rect x=".5" y=".5" width="${width-1}" height="41" rx="8" fill="${color}"/>${text(width/2,27,label,14,'#142630','font-weight="600" text-anchor="middle"')}`);
+  return svg(width+16,58,label,`<g transform="translate(8 8)"><rect x=".5" y=".5" width="${width-1}" height="41" rx="8" fill="${color}"/>${text(width/2,27,label,14,'#142630','font-weight="600" text-anchor="middle"')}</g>`);
 }
 
 for (const [name,t] of Object.entries(themes)) {

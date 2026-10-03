@@ -21,9 +21,9 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leo-queiros"><img src="./assets/linkedin.svg" alt="Discutons sur LinkedIn" height="42"></a>
+  <a href="https://www.linkedin.com/in/leo-queiros"><img src="./assets/linkedin.svg" alt="Discutons sur LinkedIn" height="58"></a>
   &nbsp;
-  <a href="https://github.com/ArsStolas?tab=repositories"><img src="./assets/repositories.svg" alt="Explorer mes dépôts GitHub" height="42"></a>
+  <a href="https://github.com/ArsStolas?tab=repositories"><img src="./assets/repositories.svg" alt="Explorer mes dépôts GitHub" height="58"></a>
 </p>
 
 <h2>Salut, moi c’est Léo.</h2>
