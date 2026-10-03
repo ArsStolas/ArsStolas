@@ -1,0 +1,26 @@
+<!--
+/**
+ * ArsStolas Project, 2026
+ * Created by: "ArsStolas"
+ * Last Updated by: "ArsStolas"
+ * Class: "ProfileArtwork" - Merci d’être passé. À bientôt, Léo.
+ */
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="170" viewBox="0 0 640 170" role="img" aria-labelledby="title"><title id="title">Merci d’être passé. À bientôt, Léo.</title><g font-family="Segoe UI,Arial,sans-serif"><style>
+  .float-a{animation:float 7s ease-in-out infinite}.float-b{animation:float 9s ease-in-out -3s infinite}.float-c{animation:float 8s ease-in-out -5s infinite}
+  .spark{animation:twinkle 5s ease-in-out infinite}.spark:nth-child(3n){animation-delay:-2s}.spark:nth-child(2n){animation-delay:-3.5s}
+  .orbit{animation:orbit 40s linear infinite;transform-origin:265px 234px}.cursor{animation:blink 1.3s steps(1) infinite}.eyes{animation:eyes 8s infinite;transform-box:fill-box;transform-origin:center}
+  .dash{animation:dash 16s linear infinite}.breath{animation:breath 6s ease-in-out infinite}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  @keyframes twinkle{0%,100%{opacity:.25}50%{opacity:.9}}
+  @keyframes orbit{to{transform:rotate(360deg)}}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+  @keyframes eyes{0%,44%,48%,100%{transform:scaleY(1)}46%{transform:scaleY(.1)}}
+  @keyframes dash{to{stroke-dashoffset:-180}}
+  @keyframes breath{0%,100%{opacity:.035}50%{opacity:.1}}
+  @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><path d="M0 8H640" stroke="#c9d0c9"/><g transform="translate(12 56)" stroke="#976227" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 9L2 0L16 8Q24 4 32 8L46 0L43 10C52 22 48 40 24 48C0 40 -4 22 5 9Z"/>
+    <path d="M4 18Q13 4 24 18Q35 4 44 18M24 18V29M20 28L24 33L28 28M11 35L17 39M37 35L31 39"/>
+    <g class="eyes"><circle cx="13" cy="21" r="3" fill="#976227" stroke="none"/><circle cx="35" cy="21" r="3" fill="#976227" stroke="none"/></g>
+  </g><text x="90" y="67" fill="#243b43" font-size="27" font-weight="500">Merci d’être passé.</text><text x="90" y="102" fill="#243b43" font-size="27" font-weight="500">On se retrouve sur LinkedIn ?</text><text x="90" y="143" fill="#526c70" font-size="19" >À bientôt, Léo.</text></g></svg>

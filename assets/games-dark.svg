@@ -1,0 +1,9 @@
+<!--
+/**
+ * ArsStolas Project, 2026
+ * Created by: "ArsStolas"
+ * Last Updated by: "ArsStolas"
+ * Class: "ProfileArtwork" - Des mondes à jouer.
+ */
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="115" viewBox="0 0 1200 115" role="img" aria-labelledby="title"><title id="title">Des mondes à jouer.</title><g font-family="Segoe UI,Arial,sans-serif"><path d="M0 4H1200" stroke="#32424b"/><g><text x="0" y="51" fill="#e6bd81" font-size="14" font-family="Consolas,Monaco,monospace">01</text><text x="50" y="53" fill="#f5f0e6" font-size="31" font-weight="600">Des mondes à jouer.</text><text x="50" y="88" fill="#a7b9ba" font-size="17" >IA, physique, multijoueur… et quelques gobelins.</text></g><path d="M1152 36V60M1140 48H1164" stroke="#e6bd81" stroke-width="1.5"/></g></svg>

@@ -1,0 +1,10 @@
+# /**
+#  * ArsStolas Project, 2026
+#  * Created by: "ArsStolas"
+#  * Last Updated by: "ArsStolas"
+#  * Class: "GitIgnore" - Github Profile Ignored Files
+#  */
+
+.preview/
+*.zip
+node_modules/
